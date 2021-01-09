@@ -7,25 +7,30 @@
   gTTS 
   
 # 環境構築
-
-## 環境構築  
   
 1. 本パッケージをインストールします。  
   
-```sh
-cd ~/catkin_ws/src  
-git clone  https://github.com/yuyakobayashi7/tategakiMaker.git
-cd ~/catkin_ws
-catkin_make
-```  
+
+   $ cd ~/catkin_ws/src  
+   $ git clone  https://github.com/yuyakobayashi7/tategakiMaker.git
+   $ cd ~/catkin_ws
+   $ catkin_make
   
 2. 音声ファイルを出力するため、gTTSをインストールします
-```
-pip3 install gtts
-```  
----
-    
-#実行方法
+
+   $ pip3 install gtts
+
+
+# 映像
+
+
+   
+#　LINECENSE
+
+gTTS 
+MIT License
+
+
 
 
        
