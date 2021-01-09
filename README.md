@@ -30,7 +30,11 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
    
 # 実行方法
 
-以下の3つのコードをそれぞれ別の端末上で実行してください。
+1. まずはじめに roscore を立ち上げてください。
+
+ $ roscore
+
+2. 次に、以下の3つのコードをそれぞれ別の端末上で実行してください。
 出力された音声ファイルはプログラムを実行したディレクトリに作られます。
     
     $ rosrun tategakiMaker yoko.py
