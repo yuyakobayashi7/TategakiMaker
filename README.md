@@ -49,7 +49,10 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
    
 # LINECENSE
 
-gTTS  MIT License
+This repository is licensed under the BSD license
 
-ROS   BSD
+gTTS  
+MIT License　
+
+ROS BSD License
  
