@@ -29,7 +29,7 @@
     
     $ rosrun tategakiMaker yoko.py
     $ rosrun tategakimaker tate.py
-    $　rosrun tategakiMaker voice.py
+    $ rosrun tategakiMaker voice.py
     
 
 
