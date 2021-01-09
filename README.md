@@ -3,7 +3,9 @@
 
 # 実行環境
   OS ubutu 20.04
+  
   ROS1
+  
   gTTS 
   
 # 環境構築
