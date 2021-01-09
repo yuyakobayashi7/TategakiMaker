@@ -9,7 +9,12 @@
   gTTS 2.2.1
   
 # 環境構築
-  
+
+以下のスクリプトを使用しROSの環境構築をしました。
+https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
+
+#　パッケージ
+
 1. 本パッケージをインストールします。  
   
     $ cd ~/catkin_ws/src  
@@ -17,6 +22,7 @@
     
     $ cd ~/catkin_ws
     $ catkin_make
+    $ source ~/.bashrc
   
 2. 音声ファイルを出力するため、gTTSをインストールします
 
