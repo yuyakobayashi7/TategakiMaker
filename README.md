@@ -2,11 +2,11 @@
 (c) 2020 RyuichiUeda and YuyaKobayashi
 
 # 実行環境
-  OS ubutu 20.04
+  OS ubutu desktop 20.04 LTS
   
   ROS1
   
-  gTTS 
+  gTTS 2.2.1
   
 # 環境構築
   
@@ -21,6 +21,16 @@
 2. 音声ファイルを出力するため、gTTSをインストールします
 
    $ pip3 install gtts
+   
+# 実行方法
+
+以下の3つのコードをそれぞれ別の端末上で実行してください。
+出力された音声ファイルはプログラムを実行したディレクトリに作られます。
+    
+    $ rosrun tategakiMaker yoko.py
+    $ rosrun tategakimaker tate.py
+    $　rosrun tategakiMaker voice.py
+    
 
 
 # 映像
@@ -29,11 +39,6 @@
    
 # LINECENSE
 
-gTTS 
-MIT License
-
-
-
-
-       
+gTTS -MIT License
+ROS -BSD
  
