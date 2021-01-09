@@ -39,6 +39,7 @@
    
 # LINECENSE
 
-gTTS -MIT License
-ROS -BSD
+gTTS  MIT License
+
+ROS   BSD
  
