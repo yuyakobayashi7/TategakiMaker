@@ -13,7 +13,7 @@
 以下のスクリプトを使用しROSの環境構築をしました。
 https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
 
-#　パッケージ
+# パッケージのインストール
 
 1. 本パッケージをインストールします。  
   
