@@ -37,7 +37,11 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
     $ rosrun tategakimaker tate.py
     $ rosrun tategakiMaker voice.py
     
+#　プログラムの説明
 
+  入力した文字列を縦書きに出力します。
+  利用すると利用者への感謝のメッセージの音声ファイルが作られます。
+  
 
 # 映像
  後ではる
