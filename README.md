@@ -10,11 +10,10 @@
   
 1. 本パッケージをインストールします。  
   
-
-   $ cd ~/catkin_ws/src  
-   $ git clone  https://github.com/yuyakobayashi7/tategakiMaker.git
-   $ cd ~/catkin_ws
-   $ catkin_make
+    $ cd ~/catkin_ws/src  
+    $ git clone  https://github.com/yuyakobayashi7/tategakiMaker.git
+    $ cd ~/catkin_ws
+    $catkin_make
   
 2. 音声ファイルを出力するため、gTTSをインストールします
 
