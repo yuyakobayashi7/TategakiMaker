@@ -52,7 +52,7 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
   
 
 # 映像
- 後ではる
+ https://youtu.be/-BBS-tfj6Hc
 
    
 # LINECENSE
