@@ -59,6 +59,12 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
 
 # 映像
  https://youtu.be/-BBS-tfj6Hc
+ 
+ 
+# REFERENCE
+  
+  コードはこの動画でのコードを元に改変を加えたものです。
+  https://www.youtube.com/watch?v=PL85Pw_zQH0&list=PLbUh9y6MXvjdIB5A9uhrZVrhAaXc61Pzz&index=13&t=4067s
 
    
 # LINECENSE
