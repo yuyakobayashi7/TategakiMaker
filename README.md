@@ -52,7 +52,7 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
   
   gTTSを利用するのでインターネットに接続した状態で実行してください。
   
-  ubuntu 20.04 の場合は、出力された音声ファイルは/home/userに作られます。
+  ubuntu 20.04 LTS の場合は、出力された音声ファイルは/home/userに作られます。
   
   保存先を ./ にしています。環境によってはパス名が少し違うかもしれません。
   
@@ -67,6 +67,3 @@ This repository is licensed under the BSD license
 
 gTTS MIT License　
 https://pypi.org/project/gTTS/
-
-ROS BSD License
- 
