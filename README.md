@@ -2,9 +2,9 @@
 (c) 2021 Ryuichi Ueda and Yuya Kobayashi
 
 # 実行環境
-  OS ubutu desktop 20.04 LTS
+  Ubutu desktop 20.04 LTS
   
-  ROS1
+  ROS noetic
   
   gTTS 2.2.1
   
