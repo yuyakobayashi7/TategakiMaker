@@ -66,6 +66,7 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
 This repository is licensed under the BSD license
 
 gTTS MIT License　
+https://pypi.org/project/gTTS/
 
 ROS BSD License
  
