@@ -54,7 +54,7 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
   
   ubuntu 20.04 の場合は、出力された音声ファイルは/home/userに作られます。
   
-  保存先を /. にしています。環境によってはパス名が少し違うかもしれません。
+  保存先を ./ にしています。環境によってはパス名が少し違うかもしれません。
   
 
 # 映像
