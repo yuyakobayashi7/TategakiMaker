@@ -21,7 +21,9 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
     $ git clone  https://github.com/yuyakobayashi7/tategakiMaker.git
     
     $ cd ~/catkin_ws
+    
     $ catkin_make
+    
     $ source ~/.bashrc
   
 2. 音声ファイルを出力するため、gTTSをインストールします
