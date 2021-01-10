@@ -38,7 +38,9 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
 出力された音声ファイルはプログラムを実行したディレクトリに作られます。
     
     $ rosrun tategakiMaker yoko.py
+    
     $ rosrun tategakimaker tate.py
+    
     $ rosrun tategakiMaker voice.py
     
 # プログラムの説明
