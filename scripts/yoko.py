@@ -4,7 +4,6 @@ from std_msgs.msg import String
   
 rospy.init_node('yoko')
 pub = rospy.Publisher('yoko', String, queue_size=1)
-#rate = rospy.Rate(10)
 
 while not rospy.is_shutdown():
     str = input("文字を入力してください:")
