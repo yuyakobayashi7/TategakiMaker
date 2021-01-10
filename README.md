@@ -37,7 +37,6 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
     $ roscore
 
 2. 次に、以下の3つのコードをそれぞれ別の端末上で実行してください。
-出力された音声ファイルはプログラムを実行したディレクトリに作られます。
     
     $ rosrun tategakiMaker yoko.py
     
@@ -49,6 +48,9 @@ https://github.com/ryuichiueda/ros_setup_scripts_Ubuntu20.04_desktop
 
   入力した文字列を縦書きに出力します。
   利用すると利用者への感謝のメッセージの音声ファイルが作られます。
+  gTTSを利用するのでインターネットに接続した状態で実行してください。
+  ubuntu 20.04 の場合は、出力された音声ファイルは/home/userに作られます。
+  保存先を /. にしています。環境によってはパス名が少し違うかもしれません。
   
 
 # 映像
