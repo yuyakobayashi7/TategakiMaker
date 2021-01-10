@@ -1,5 +1,5 @@
 # CONTRIBUTOR
-(c) 2020 Ryuichi Ueda and Yuya Kobayashi
+(c) 2021 Ryuichi Ueda and Yuya Kobayashi
 
 # 実行環境
   OS ubutu desktop 20.04 LTS
